@@ -10,22 +10,22 @@ const Footer = () => {
       <Logo title="Bloggers" className="text-white" />
       <div className="text-gray-300 hidden md:inline-flex items-center gap-7">
         <Link
-          href={"https://www.youtube.com/channel/UChkOsij0dhgft0GhHRauOAA"}
+          href={"https://www.youtube.com/shorts/mLlwFmvqN58"}
           target="blank"
         >
           <BsYoutube className="text-2xl hover:text-red-500 duration-200" />
         </Link>
-        <Link href={"https://github.com/noorjsdivs"} target="blank">
+        <Link href={"https://github.com/oguzhan-baysal"} target="blank">
           <BsGithub className="text-2xl hover:text-orange-500 duration-200 cursor-pointer" />
         </Link>
         <Link
-          href={"https://www.youtube.com/channel/UChkOsij0dhgft0GhHRauOAA"}
+          href={"https://www.facebook.com/cenk.taksim.125"}
           target="blank"
         >
           <BsFacebook className="text-2xl hover:text-orange-500 duration-200 cursor-pointer" />
         </Link>
         <Link
-          href={"https://www.youtube.com/channel/UChkOsij0dhgft0GhHRauOAA"}
+          href={"https://www.instagram.com/oguzhan__baysal/"}
           target="blank"
         >
           <BsInstagram className="text-2xl hover:text-orange-500 duration-200 cursor-pointer" />
@@ -34,11 +34,11 @@ const Footer = () => {
       <p className="text-sm text-gray-300">
         © All rights reserved{" "}
         <Link
-          href={"https://www.youtube.com/channel/UChkOsij0dhgft0GhHRauOAA"}
+          href={"https://www.instagram.com/oguzhan__baysal/"}
           target="blank"
           className="hover:text-white font-semibold duration-200"
         >
-          @reactjsBD
+          @reactjsOB
         </Link>
       </p>
     </Container>
